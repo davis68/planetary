@@ -1,0 +1,6 @@
+*.log
+*.aux
+*.o
+.DS_Store
+thumbnails.db
+
